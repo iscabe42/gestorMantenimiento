@@ -1,6 +1,6 @@
 applications:
-- path: target/TomcatHelloWorldApp.war
-  memory: 256M
+- path: target/Mantenimiento.war
+  memory: 1024M
   instances: 1
   domain: mybluemix.net
   name: gestorMantenimiento
